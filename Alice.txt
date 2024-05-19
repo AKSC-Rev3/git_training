@@ -1,4 +1,6 @@
 Alice 1 - created for conflict
+=======
+Images conflict
 
 editing to create conflict
 
