@@ -1,3 +1,5 @@
+Alice 1 - created for conflict
+
 editing to create conflict
 
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
